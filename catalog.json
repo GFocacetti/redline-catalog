@@ -1,0 +1,1458 @@
+{
+	"format": 1,
+	"generated": "2026-11-20T16:33:45.514Z",
+	"tags": [
+		{
+			"id": "where",
+			"labels": {
+				"english": "Where it works",
+				"italian": "Dove agisce",
+				"german": "Wo es wirkt",
+				"french": "Où il agit",
+				"spanish": "Dónde actúa",
+				"latam": "Dónde actúa",
+				"brazilian": "Onde atua",
+				"dutch": "Waar het werkt",
+				"danish": "Hvor det virker",
+				"swedish": "Var det verkar",
+				"polish": "Gdzie działa",
+				"russian": "Где работает",
+				"ukrainian": "Де працює",
+				"bulgarian": "Къде действа",
+				"hungarian": "Hol működik",
+				"turkish": "Nerede çalışır",
+				"indonesian": "Tempat bekerja",
+				"vietnamese": "Hoạt động ở đâu",
+				"japanese": "対象の場所",
+				"koreana": "적용 위치",
+				"schinese": "作用位置",
+				"tchinese": "作用位置"
+			},
+			"tags": [
+				{
+					"id": "library",
+					"labels": {
+						"english": "Library",
+						"italian": "Libreria",
+						"german": "Bibliothek",
+						"french": "Bibliothèque",
+						"spanish": "Biblioteca",
+						"latam": "Biblioteca",
+						"brazilian": "Biblioteca",
+						"dutch": "Bibliotheek",
+						"danish": "Bibliotek",
+						"swedish": "Bibliotek",
+						"polish": "Biblioteka",
+						"russian": "Библиотека",
+						"ukrainian": "Бібліотека",
+						"bulgarian": "Библиотека",
+						"hungarian": "Könyvtár",
+						"turkish": "Kütüphane",
+						"indonesian": "Pustaka",
+						"vietnamese": "Thư viện",
+						"japanese": "ライブラリ",
+						"koreana": "라이브러리",
+						"schinese": "库",
+						"tchinese": "收藏庫"
+					}
+				},
+				{
+					"id": "store",
+					"labels": {
+						"english": "Store",
+						"italian": "Negozio",
+						"german": "Shop",
+						"french": "Magasin",
+						"spanish": "Tienda",
+						"latam": "Tienda",
+						"brazilian": "Loja",
+						"dutch": "Winkel",
+						"danish": "Butik",
+						"swedish": "Butik",
+						"polish": "Sklep",
+						"russian": "Магазин",
+						"ukrainian": "Крамниця",
+						"bulgarian": "Магазин",
+						"hungarian": "Áruház",
+						"turkish": "Mağaza",
+						"indonesian": "Toko",
+						"vietnamese": "Cửa hàng",
+						"japanese": "ストア",
+						"koreana": "상점",
+						"schinese": "商店",
+						"tchinese": "商店"
+					}
+				},
+				{
+					"id": "profile",
+					"labels": {
+						"english": "Profiles",
+						"italian": "Profili",
+						"german": "Profile",
+						"french": "Profils",
+						"spanish": "Perfiles",
+						"latam": "Perfiles",
+						"brazilian": "Perfis",
+						"dutch": "Profielen",
+						"danish": "Profiler",
+						"swedish": "Profiler",
+						"polish": "Profile",
+						"russian": "Профили",
+						"ukrainian": "Профілі",
+						"bulgarian": "Профили",
+						"hungarian": "Profilok",
+						"turkish": "Profiller",
+						"indonesian": "Profil",
+						"vietnamese": "Hồ sơ",
+						"japanese": "プロフィール",
+						"koreana": "프로필",
+						"schinese": "个人资料",
+						"tchinese": "個人檔案"
+					}
+				},
+				{
+					"id": "friends",
+					"labels": {
+						"english": "Friends & chat",
+						"italian": "Amici e chat",
+						"german": "Freunde & Chat",
+						"french": "Amis et discussion",
+						"spanish": "Amigos y chat",
+						"latam": "Amigos y chat",
+						"brazilian": "Amigos e chat",
+						"dutch": "Vrienden & chat",
+						"danish": "Venner og chat",
+						"swedish": "Vänner och chatt",
+						"polish": "Znajomi i czat",
+						"russian": "Друзья и чат",
+						"ukrainian": "Друзі й чат",
+						"bulgarian": "Приятели и чат",
+						"hungarian": "Barátok és csevegés",
+						"turkish": "Arkadaşlar ve sohbet",
+						"indonesian": "Teman & obrolan",
+						"vietnamese": "Bạn bè và trò chuyện",
+						"japanese": "フレンドとチャット",
+						"koreana": "친구 및 채팅",
+						"schinese": "好友与聊天",
+						"tchinese": "好友與聊天"
+					}
+				},
+				{
+					"id": "client",
+					"labels": {
+						"english": "Whole client",
+						"italian": "Tutto il client",
+						"german": "Ganzer Client",
+						"french": "Tout le client",
+						"spanish": "Todo el cliente",
+						"latam": "Todo el cliente",
+						"brazilian": "Cliente inteiro",
+						"dutch": "Hele client",
+						"danish": "Hele klienten",
+						"swedish": "Hela klienten",
+						"polish": "Cały klient",
+						"russian": "Весь клиент",
+						"ukrainian": "Увесь клієнт",
+						"bulgarian": "Целият клиент",
+						"hungarian": "Az egész kliens",
+						"turkish": "Tüm istemci",
+						"indonesian": "Seluruh klien",
+						"vietnamese": "Toàn bộ ứng dụng",
+						"japanese": "クライアント全体",
+						"koreana": "클라이언트 전체",
+						"schinese": "整个客户端",
+						"tchinese": "整個用戶端"
+					}
+				}
+			]
+		},
+		{
+			"id": "kind",
+			"labels": {
+				"english": "What it does",
+				"italian": "Cosa fa",
+				"german": "Was es tut",
+				"french": "Ce qu’il fait",
+				"spanish": "Qué hace",
+				"latam": "Qué hace",
+				"brazilian": "O que faz",
+				"dutch": "Wat het doet",
+				"danish": "Hvad det gør",
+				"swedish": "Vad det gör",
+				"polish": "Co robi",
+				"russian": "Что делает",
+				"ukrainian": "Що робить",
+				"bulgarian": "Какво прави",
+				"hungarian": "Mit csinál",
+				"turkish": "Ne yapar",
+				"indonesian": "Fungsinya",
+				"vietnamese": "Chức năng",
+				"japanese": "機能",
+				"koreana": "기능",
+				"schinese": "功能",
+				"tchinese": "功能"
+			},
+			"tags": [
+				{
+					"id": "stats",
+					"labels": {
+						"english": "Player stats",
+						"italian": "Statistiche giocatori",
+						"german": "Spielerstatistiken",
+						"french": "Statistiques de joueurs",
+						"spanish": "Estadísticas de jugadores",
+						"latam": "Estadísticas de jugadores",
+						"brazilian": "Estatísticas de jogadores",
+						"dutch": "Spelersstatistieken",
+						"danish": "Spillerstatistik",
+						"swedish": "Spelarstatistik",
+						"polish": "Statystyki graczy",
+						"russian": "Статистика игроков",
+						"ukrainian": "Статистика гравців",
+						"bulgarian": "Статистика на играчи",
+						"hungarian": "Játékosstatisztikák",
+						"turkish": "Oyuncu istatistikleri",
+						"indonesian": "Statistik pemain",
+						"vietnamese": "Thống kê người chơi",
+						"japanese": "プレイヤー統計",
+						"koreana": "플레이어 통계",
+						"schinese": "玩家统计",
+						"tchinese": "玩家統計"
+					}
+				},
+				{
+					"id": "game-info",
+					"labels": {
+						"english": "Game info",
+						"italian": "Informazioni sui giochi",
+						"german": "Spielinfos",
+						"french": "Infos sur les jeux",
+						"spanish": "Información de juegos",
+						"latam": "Información de juegos",
+						"brazilian": "Informações de jogos",
+						"dutch": "Game-informatie",
+						"danish": "Spilinfo",
+						"swedish": "Spelinformation",
+						"polish": "Informacje o grach",
+						"russian": "Сведения об играх",
+						"ukrainian": "Відомості про ігри",
+						"bulgarian": "Информация за игри",
+						"hungarian": "Játékinformációk",
+						"turkish": "Oyun bilgileri",
+						"indonesian": "Info game",
+						"vietnamese": "Thông tin trò chơi",
+						"japanese": "ゲーム情報",
+						"koreana": "게임 정보",
+						"schinese": "游戏信息",
+						"tchinese": "遊戲資訊"
+					}
+				},
+				{
+					"id": "compatibility",
+					"labels": {
+						"english": "Linux compatibility",
+						"italian": "Compatibilità Linux",
+						"german": "Linux-Kompatibilität",
+						"french": "Compatibilité Linux",
+						"spanish": "Compatibilidad con Linux",
+						"latam": "Compatibilidad con Linux",
+						"brazilian": "Compatibilidade com Linux",
+						"dutch": "Linux-compatibiliteit",
+						"danish": "Linux-kompatibilitet",
+						"swedish": "Linux-kompatibilitet",
+						"polish": "Zgodność z Linuksem",
+						"russian": "Совместимость с Linux",
+						"ukrainian": "Сумісність із Linux",
+						"bulgarian": "Съвместимост с Linux",
+						"hungarian": "Linux-kompatibilitás",
+						"turkish": "Linux uyumluluğu",
+						"indonesian": "Kompatibilitas Linux",
+						"vietnamese": "Tương thích Linux",
+						"japanese": "Linux 互換性",
+						"koreana": "Linux 호환성",
+						"schinese": "Linux 兼容性",
+						"tchinese": "Linux 相容性"
+					}
+				},
+				{
+					"id": "achievements",
+					"labels": {
+						"english": "Achievements",
+						"italian": "Obiettivi",
+						"german": "Errungenschaften",
+						"french": "Succès",
+						"spanish": "Logros",
+						"latam": "Logros",
+						"brazilian": "Conquistas",
+						"dutch": "Prestaties",
+						"danish": "Præstationer",
+						"swedish": "Prestationer",
+						"polish": "Osiągnięcia",
+						"russian": "Достижения",
+						"ukrainian": "Досягнення",
+						"bulgarian": "Постижения",
+						"hungarian": "Teljesítmények",
+						"turkish": "Başarımlar",
+						"indonesian": "Prestasi",
+						"vietnamese": "Thành tựu",
+						"japanese": "実績",
+						"koreana": "도전 과제",
+						"schinese": "成就",
+						"tchinese": "成就"
+					}
+				},
+				{
+					"id": "organize",
+					"labels": {
+						"english": "Organize library",
+						"italian": "Organizzare la libreria",
+						"german": "Bibliothek ordnen",
+						"french": "Organiser la bibliothèque",
+						"spanish": "Organizar la biblioteca",
+						"latam": "Organizar la biblioteca",
+						"brazilian": "Organizar a biblioteca",
+						"dutch": "Bibliotheek ordenen",
+						"danish": "Organiser biblioteket",
+						"swedish": "Ordna biblioteket",
+						"polish": "Porządkowanie biblioteki",
+						"russian": "Порядок в библиотеке",
+						"ukrainian": "Упорядкування бібліотеки",
+						"bulgarian": "Подреждане на библиотеката",
+						"hungarian": "Könyvtár rendezése",
+						"turkish": "Kütüphaneyi düzenleme",
+						"indonesian": "Merapikan pustaka",
+						"vietnamese": "Sắp xếp thư viện",
+						"japanese": "ライブラリの整理",
+						"koreana": "라이브러리 정리",
+						"schinese": "整理库",
+						"tchinese": "整理收藏庫"
+					}
+				},
+				{
+					"id": "launch",
+					"labels": {
+						"english": "Game launch",
+						"italian": "Avvio dei giochi",
+						"german": "Spielstart",
+						"french": "Lancement des jeux",
+						"spanish": "Inicio de juegos",
+						"latam": "Inicio de juegos",
+						"brazilian": "Início dos jogos",
+						"dutch": "Games starten",
+						"danish": "Start af spil",
+						"swedish": "Spelstart",
+						"polish": "Uruchamianie gier",
+						"russian": "Запуск игр",
+						"ukrainian": "Запуск ігор",
+						"bulgarian": "Стартиране на игри",
+						"hungarian": "Játékok indítása",
+						"turkish": "Oyun başlatma",
+						"indonesian": "Menjalankan game",
+						"vietnamese": "Khởi chạy trò chơi",
+						"japanese": "ゲームの起動",
+						"koreana": "게임 실행",
+						"schinese": "游戏启动",
+						"tchinese": "遊戲啟動"
+					}
+				},
+				{
+					"id": "news",
+					"labels": {
+						"english": "News",
+						"italian": "Notizie",
+						"german": "Neuigkeiten",
+						"french": "Actualités",
+						"spanish": "Noticias",
+						"latam": "Noticias",
+						"brazilian": "Notícias",
+						"dutch": "Nieuws",
+						"danish": "Nyheder",
+						"swedish": "Nyheter",
+						"polish": "Wiadomości",
+						"russian": "Новости",
+						"ukrainian": "Новини",
+						"bulgarian": "Новини",
+						"hungarian": "Hírek",
+						"turkish": "Haberler",
+						"indonesian": "Berita",
+						"vietnamese": "Tin tức",
+						"japanese": "ニュース",
+						"koreana": "뉴스",
+						"schinese": "新闻",
+						"tchinese": "新聞"
+					}
+				},
+				{
+					"id": "sharing",
+					"labels": {
+						"english": "Sharing",
+						"italian": "Condivisione",
+						"german": "Teilen",
+						"french": "Partage",
+						"spanish": "Compartir",
+						"latam": "Compartir",
+						"brazilian": "Compartilhamento",
+						"dutch": "Delen",
+						"danish": "Deling",
+						"swedish": "Delning",
+						"polish": "Udostępnianie",
+						"russian": "Поделиться",
+						"ukrainian": "Поширення",
+						"bulgarian": "Споделяне",
+						"hungarian": "Megosztás",
+						"turkish": "Paylaşım",
+						"indonesian": "Berbagi",
+						"vietnamese": "Chia sẻ",
+						"japanese": "共有",
+						"koreana": "공유",
+						"schinese": "分享",
+						"tchinese": "分享"
+					}
+				},
+				{
+					"id": "extensions",
+					"labels": {
+						"english": "Browser extensions",
+						"italian": "Estensioni del browser",
+						"german": "Browsererweiterungen",
+						"french": "Extensions de navigateur",
+						"spanish": "Extensiones del navegador",
+						"latam": "Extensiones del navegador",
+						"brazilian": "Extensões do navegador",
+						"dutch": "Browserextensies",
+						"danish": "Browserudvidelser",
+						"swedish": "Webbläsartillägg",
+						"polish": "Rozszerzenia przeglądarki",
+						"russian": "Расширения браузера",
+						"ukrainian": "Розширення браузера",
+						"bulgarian": "Разширения за браузър",
+						"hungarian": "Böngészőbővítmények",
+						"turkish": "Tarayıcı eklentileri",
+						"indonesian": "Ekstensi peramban",
+						"vietnamese": "Tiện ích trình duyệt",
+						"japanese": "ブラウザ拡張機能",
+						"koreana": "브라우저 확장 프로그램",
+						"schinese": "浏览器扩展",
+						"tchinese": "瀏覽器擴充功能"
+					}
+				}
+			]
+		},
+		{
+			"id": "game",
+			"labels": {
+				"english": "For a game",
+				"italian": "Per un gioco",
+				"german": "Für ein Spiel",
+				"french": "Pour un jeu",
+				"spanish": "Para un juego",
+				"latam": "Para un juego",
+				"brazilian": "Para um jogo",
+				"dutch": "Voor een game",
+				"danish": "Til et spil",
+				"swedish": "För ett spel",
+				"polish": "Do gry",
+				"russian": "Для игры",
+				"ukrainian": "Для гри",
+				"bulgarian": "За игра",
+				"hungarian": "Egy játékhoz",
+				"turkish": "Bir oyun için",
+				"indonesian": "Untuk satu game",
+				"vietnamese": "Cho một trò chơi",
+				"japanese": "ゲーム別",
+				"koreana": "게임별",
+				"schinese": "针对游戏",
+				"tchinese": "針對遊戲"
+			},
+			"tags": [
+				{
+					"id": "cs2",
+					"labels": {
+						"english": "Counter-Strike 2",
+						"italian": "Counter-Strike 2",
+						"german": "Counter-Strike 2",
+						"french": "Counter-Strike 2",
+						"spanish": "Counter-Strike 2",
+						"latam": "Counter-Strike 2",
+						"brazilian": "Counter-Strike 2",
+						"dutch": "Counter-Strike 2",
+						"danish": "Counter-Strike 2",
+						"swedish": "Counter-Strike 2",
+						"polish": "Counter-Strike 2",
+						"russian": "Counter-Strike 2",
+						"ukrainian": "Counter-Strike 2",
+						"bulgarian": "Counter-Strike 2",
+						"hungarian": "Counter-Strike 2",
+						"turkish": "Counter-Strike 2",
+						"indonesian": "Counter-Strike 2",
+						"vietnamese": "Counter-Strike 2",
+						"japanese": "Counter-Strike 2",
+						"koreana": "Counter-Strike 2",
+						"schinese": "Counter-Strike 2",
+						"tchinese": "Counter-Strike 2"
+					}
+				},
+				{
+					"id": "dota2",
+					"labels": {
+						"english": "Dota 2",
+						"italian": "Dota 2",
+						"german": "Dota 2",
+						"french": "Dota 2",
+						"spanish": "Dota 2",
+						"latam": "Dota 2",
+						"brazilian": "Dota 2",
+						"dutch": "Dota 2",
+						"danish": "Dota 2",
+						"swedish": "Dota 2",
+						"polish": "Dota 2",
+						"russian": "Dota 2",
+						"ukrainian": "Dota 2",
+						"bulgarian": "Dota 2",
+						"hungarian": "Dota 2",
+						"turkish": "Dota 2",
+						"indonesian": "Dota 2",
+						"vietnamese": "Dota 2",
+						"japanese": "Dota 2",
+						"koreana": "Dota 2",
+						"schinese": "Dota 2",
+						"tchinese": "Dota 2"
+					}
+				}
+			]
+		},
+		{
+			"id": "system",
+			"labels": {
+				"english": "System",
+				"italian": "Sistema",
+				"german": "System",
+				"french": "Système",
+				"spanish": "Sistema",
+				"latam": "Sistema",
+				"brazilian": "Sistema",
+				"dutch": "Systeem",
+				"danish": "System",
+				"swedish": "System",
+				"polish": "System",
+				"russian": "Система",
+				"ukrainian": "Система",
+				"bulgarian": "Система",
+				"hungarian": "Rendszer",
+				"turkish": "Sistem",
+				"indonesian": "Sistem",
+				"vietnamese": "Hệ thống",
+				"japanese": "システム",
+				"koreana": "시스템",
+				"schinese": "系统",
+				"tchinese": "系統"
+			},
+			"tags": [
+				{
+					"id": "linux-only",
+					"labels": {
+						"english": "Linux only",
+						"italian": "Solo Linux",
+						"german": "Nur Linux",
+						"french": "Linux uniquement",
+						"spanish": "Solo Linux",
+						"latam": "Solo Linux",
+						"brazilian": "Somente Linux",
+						"dutch": "Alleen Linux",
+						"danish": "Kun Linux",
+						"swedish": "Endast Linux",
+						"polish": "Tylko Linux",
+						"russian": "Только Linux",
+						"ukrainian": "Лише Linux",
+						"bulgarian": "Само Linux",
+						"hungarian": "Csak Linux",
+						"turkish": "Yalnızca Linux",
+						"indonesian": "Hanya Linux",
+						"vietnamese": "Chỉ Linux",
+						"japanese": "Linux 専用",
+						"koreana": "Linux 전용",
+						"schinese": "仅限 Linux",
+						"tchinese": "僅限 Linux"
+					}
+				}
+			]
+		}
+	],
+	"plugins": [
+		{
+			"id": "achievement-groups",
+			"name": "Achievement Groups",
+			"description": "SteamHunters achievement groups and other info right in your Steam client",
+			"author": "BossSloth",
+			"repository": "https://github.com/BossSloth/SteamHunter-plugin",
+			"license": "MIT",
+			"version": "2.1.1",
+			"released": "2026-10-16T21:27:52Z",
+			"stars": 24,
+			"tags": [
+				"library",
+				"achievements"
+			],
+			"download": {
+				"url": "https://github.com/BossSloth/SteamHunter-plugin/releases/download/v2.1.1/Achievement-Groups-plugin-2.1.1.zip",
+				"size": 40466,
+				"sha256": "c44233572104f4a0b8f81929148da1e34a322ac481abe7ee9c07fcc22ee61463",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "cs2-profile-stats",
+			"name": "CS2 Profile Stats",
+			"description": "Displays useful Leetify, FACEIT, and Steam CS2 statistics directly on Steam profiles.",
+			"author": "Shightrox",
+			"repository": "https://github.com/Shightrox/millennium-cs2-profile-stats",
+			"license": "MIT",
+			"version": "0.4.5",
+			"released": "2026-08-15T00:31:38Z",
+			"stars": 1,
+			"tags": [
+				"profile",
+				"stats",
+				"cs2"
+			],
+			"download": {
+				"url": "https://github.com/Shightrox/millennium-cs2-profile-stats/releases/download/v0.4.5/cs2-profile-stats-v0.4.5.zip",
+				"size": 1171645,
+				"sha256": "815252be0c49c3a173de3f9b6ee9de36fb13dc5edd8d80c37c5127bac25a81ba",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "csstats-extension",
+			"name": "CSStats.gg Extension",
+			"description": "A Millennium plugin that adds CSStats.gg integration to Steam profiles.",
+			"author": "TOR968",
+			"repository": "https://github.com/TOR968/csstats-extension",
+			"license": "MIT",
+			"version": "1.1.3",
+			"released": "2026-08-01T18:11:41Z",
+			"stars": 3,
+			"tags": [
+				"profile",
+				"stats",
+				"cs2"
+			],
+			"download": {
+				"url": "https://github.com/TOR968/csstats-extension/releases/download/v1.1.3/csstats-extension-v1.1.3.zip",
+				"size": 6758,
+				"sha256": "926210926b2a7a62ca03eb57b68ade8c1842c121401f00025b0b54e97fe9876e",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "dotastats",
+			"name": "Dota 2 Stats",
+			"description": "View Dota 2 statistics on player profiles.",
+			"author": "BambooFury",
+			"repository": "https://github.com/BambooFury/Dota-Stats",
+			"license": "MIT",
+			"version": "2.0.0",
+			"released": "2026-03-30T15:46:28Z",
+			"stars": 1,
+			"tags": [
+				"profile",
+				"stats",
+				"dota2"
+			],
+			"download": {
+				"url": "https://github.com/BambooFury/Dota-Stats/releases/download/2.0.0/dotastats.v2.0.0.zip",
+				"size": 17322,
+				"sha256": "e2ac638362c079626a8d7c919f1d984459beb0436170806d429bdf74c8ab7b97",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "extendium",
+			"name": "Extendium",
+			"description": "Chrome extension support for Steam. Install extensions like SteamDB, Augmented Steam, UBlock Origin, and more in your Steam Desktop Client",
+			"author": "BossSloth",
+			"repository": "https://github.com/BossSloth/Extendium",
+			"license": "MIT",
+			"version": "2.0.5",
+			"released": "2026-10-17T13:55:27Z",
+			"stars": 325,
+			"tags": [
+				"client",
+				"extensions"
+			],
+			"download": {
+				"url": "https://github.com/BossSloth/Extendium/releases/download/v2.0.5/extendium-2.0.5.zip",
+				"size": 80134,
+				"sha256": "07e3917e8bf8cd624a5e6b8d1c485676ab88aef9cc27eedd3ddf52932d212f36",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "alowave.faceit_stats",
+			"name": "FaceIt Stats",
+			"description": "Displays player FaceIt statistics on steam profiles.",
+			"author": "alowave",
+			"repository": "https://github.com/alowave/millennium-faceit-stats",
+			"license": "MIT",
+			"version": "1.0.1",
+			"released": "2025-02-08T04:01:37Z",
+			"stars": 14,
+			"tags": [
+				"profile",
+				"stats",
+				"cs2"
+			],
+			"download": {
+				"url": "https://github.com/alowave/millennium-faceit-stats/releases/download/release-v1.0.1-millennium/alowave.faceit_stats-v1.0.1.zip",
+				"size": 33782,
+				"sha256": "91d281dc1337647837357b06e79585552b575512d83877f9ad97dc16a0220739",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "steam-game-renamer",
+			"name": "Game Renamer",
+			"description": "Rename different games in the Steam library",
+			"author": "Inceptofn",
+			"repository": "https://github.com/Inceptofn/Steam-GameRenamer-Plugin",
+			"license": "MIT",
+			"version": "1.0.4",
+			"released": "2026-11-18T14:54:50Z",
+			"stars": 5,
+			"tags": [
+				"library",
+				"organize"
+			],
+			"download": {
+				"url": "https://github.com/Inceptofn/Steam-GameRenamer-Plugin/releases/download/v1.0.4/GameRenamer-v1.0.4.zip",
+				"size": 13364,
+				"sha256": "814064a8c63e9b201b9bdb1fc1cfd8a31adcfbaa9a6f31c3fb3b594dab53d6e8",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "global_launch_options",
+			"name": "Global Launch Options",
+			"description": "Set default launch options that automatically apply to all Steam games.",
+			"author": "BlafKing",
+			"repository": "https://github.com/BlafKing/steam-global-launch-options",
+			"license": "MIT",
+			"version": "1.1.0",
+			"released": "2026-02-02T04:58:02Z",
+			"stars": 14,
+			"tags": [
+				"library",
+				"launch"
+			],
+			"download": {
+				"url": "https://github.com/BlafKing/steam-global-launch-options/releases/download/v1.1.0/steam-global-launch-options.zip",
+				"size": 12679,
+				"sha256": "988ed14586c06d079aa10ede5e175316339cef7c7d9438dbd0a2e14d7763673f",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "gratitude",
+			"name": "Gratitude - Gifted Games Reminder",
+			"description": "A plugin for your Steam Library that adds a helpful indicator to games you have been gifted. Gift data updates in the background whenever you open the Steam Store.",
+			"author": "BlythT",
+			"repository": "https://github.com/BlythT/Gratitude-Millennium-Plugin",
+			"license": "MIT",
+			"version": "1.4.1",
+			"released": "2026-11-18T07:41:17Z",
+			"stars": 9,
+			"tags": [
+				"library",
+				"organize"
+			],
+			"download": {
+				"url": "https://github.com/BlythT/Gratitude-Millennium-Plugin/releases/download/v1.4.1/gratitude-for-millenium-v1.4.1.zip",
+				"size": 187709,
+				"sha256": "219122ed784645d3f7285d540d5c0286e5722561614d320aefff9ddc47d9c082",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "hltb-for-millennium",
+			"name": "HLTB for Steam",
+			"description": "Displays How Long To Beat completion times on game pages",
+			"author": "jcdoll",
+			"repository": "https://github.com/jcdoll/hltb-millennium-plugin",
+			"license": "MIT",
+			"version": "2.2.0",
+			"released": "2026-08-25T14:20:07Z",
+			"stars": 19,
+			"tags": [
+				"library",
+				"game-info"
+			],
+			"download": {
+				"url": "https://github.com/jcdoll/hltb-millennium-plugin/releases/download/v2.2.0/hltb-for-millennium-2.2.0.zip",
+				"size": 41327,
+				"sha256": "62e0f1277ad36a81842301b584038a7de83e4884e372a04567b308e4da777d7d",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "leetify-extension",
+			"name": "Leetify Extension",
+			"description": "A Millennium plugin that adds Leetify integration to Steam profiles.",
+			"author": "TOR968",
+			"repository": "https://github.com/TOR968/leetify-extension",
+			"license": "MIT",
+			"version": "2.2.3",
+			"released": "2026-08-01T18:11:36Z",
+			"stars": 4,
+			"tags": [
+				"profile",
+				"stats",
+				"cs2"
+			],
+			"download": {
+				"url": "https://github.com/TOR968/leetify-extension/releases/download/v2.2.3/leetify-extension-v2.2.3.zip",
+				"size": 15770,
+				"sha256": "ca9cf6d5f2ace7b34063c3efa2213763bed99bd2ebb4d349fb1efc79d94115d2",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "playercount-badge",
+			"name": "Player Count",
+			"description": "Show live Steam player counts on game library pages in desktop mode.",
+			"author": "swindlesmccoop",
+			"repository": "https://github.com/swindlesmccoop/playercount-badge",
+			"license": null,
+			"version": "1.0.0",
+			"released": "2026-07-10T14:00:31Z",
+			"stars": 3,
+			"tags": [
+				"library",
+				"game-info"
+			],
+			"download": {
+				"url": "https://github.com/swindlesmccoop/playercount-badge/releases/download/v1.0/playercount-badge.zip",
+				"size": 54645,
+				"sha256": "cbf5a106d515cf2865017402ed487e3a6a1c7e461d1e3761a66e9271ae553ba6",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "proton_universal_prefix",
+			"name": "Proton Universal Prefix",
+			"description": "Creates a unified Proton Windows prefix across all Steam games using symlinks.",
+			"author": "BlafKing",
+			"repository": "https://github.com/BlafKing/steam-proton-universal",
+			"license": "MIT",
+			"version": "1.1.0",
+			"released": "2026-02-19T04:21:22Z",
+			"stars": 2,
+			"tags": [
+				"launch",
+				"compatibility",
+				"linux-only"
+			],
+			"download": {
+				"url": "https://github.com/BlafKing/steam-proton-universal/releases/download/v1.1.0/steam-proton-universal.zip",
+				"size": 12547,
+				"sha256": "c36ee0df2dc396fb9fcfe3dfe8b9a86bcda0878b8e27f027958cb1e93a9d5f02",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "com.unicxrn.protondb",
+			"name": "ProtonDB",
+			"description": "Shows ProtonDB compatibility and anticheat status on Steam store and library pages.",
+			"author": "unicxrn",
+			"repository": "https://github.com/unicxrn/protondb-millennium",
+			"license": "MIT",
+			"version": "2.0.0",
+			"released": "2026-10-28T12:43:39Z",
+			"stars": 4,
+			"tags": [
+				"library",
+				"store",
+				"compatibility"
+			],
+			"download": {
+				"url": "https://github.com/unicxrn/protondb-millennium/releases/download/v2.0.0/protondb-v2.0.0.star",
+				"size": 47389,
+				"sha256": "0089faac5c85cbf29a1f45b66bc0b339ad9b824502d8b952849e90cdbe6f0c40",
+				"format": "star"
+			},
+			"replaces": [
+				"protondb"
+			]
+		},
+		{
+			"id": "protondb-library-badges",
+			"name": "ProtonDB Library Badges",
+			"description": "ProtonDB compatibility tiers in the desktop Steam library: inline game-page stat, sidebar indicators, and a tier section in the Library Filters panel.",
+			"author": "Yohlo",
+			"repository": "https://github.com/Yohlo/protondb-library-badges",
+			"license": null,
+			"version": "1.0.1",
+			"released": "2026-10-01T23:46:06Z",
+			"stars": 1,
+			"tags": [
+				"library",
+				"compatibility"
+			],
+			"download": {
+				"url": "https://github.com/Yohlo/protondb-library-badges/releases/download/v1.0.1/protondb-library-badges-v1.0.1.zip",
+				"size": 11627,
+				"sha256": "82073f19ba17f216eeba234ecafb27e5990a9d0f3885d50bacca1588d113f2d2",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "protondb-status",
+			"name": "ProtonDB Status",
+			"description": "Show ProtonDB compatibility ratings on game library pages.",
+			"author": "nyakuoff",
+			"repository": "https://github.com/nyakuoff/protondb-badge",
+			"license": null,
+			"version": "1.0.0",
+			"released": "2026-04-07T03:24:07Z",
+			"stars": 6,
+			"tags": [
+				"library",
+				"compatibility"
+			],
+			"download": {
+				"url": "https://github.com/nyakuoff/protondb-badge/releases/download/v1.0.0/protondb-status-1.0.0.zip",
+				"size": 662482,
+				"sha256": "76bec24eeab7c4e5709d351d2a752d88ac7362a912bbbc75afb433a7610813a9",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "recent-chats",
+			"name": "Recent Chats",
+			"description": "Adds a recent-conversations view to Steam's desktop and overlay Friends windows.",
+			"author": "Alex979",
+			"repository": "https://github.com/Alex979/Steam-Recent-Chats-plugin",
+			"license": "MIT",
+			"version": "0.4.1",
+			"released": "2026-08-21T02:58:52Z",
+			"stars": 0,
+			"tags": [
+				"friends"
+			],
+			"download": {
+				"url": "https://github.com/Alex979/Steam-Recent-Chats-plugin/releases/download/v0.4.1/recent-chats-0.4.1.zip",
+				"size": 12861,
+				"sha256": "7c55ae0b70d17fcf602e8454b1acf8532a025db82d90051467da75e46c935118",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "RSS-feed-in-whats-new",
+			"name": "RSS feed in whats new",
+			"description": "A plugin for adding RSS news to whats new block in Steam",
+			"author": "diemonic1",
+			"repository": "https://github.com/diemonic1/RSS-feed-in-whats-new",
+			"license": "MIT",
+			"version": "1.0.2",
+			"released": "2026-08-29T09:39:22Z",
+			"stars": 2,
+			"tags": [
+				"library",
+				"news"
+			],
+			"download": {
+				"url": "https://github.com/diemonic1/RSS-feed-in-whats-new/releases/download/v1.0.2/RSS-feed-in-whats-new-1-0-2.zip",
+				"size": 23610,
+				"sha256": "b182e74871285cf278c12768e3093284a32b68c8719a04f7cc9b32dfc70c9dc1",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "size-on-disk",
+			"name": "Size on Disk",
+			"description": "Instantly see the size of a game on disk.",
+			"author": "k0d13",
+			"repository": "https://github.com/k0d13/steam-size-on-disk",
+			"license": null,
+			"version": "1.4.0",
+			"released": "2026-11-09T20:35:57Z",
+			"stars": 22,
+			"tags": [
+				"library",
+				"game-info"
+			],
+			"download": {
+				"url": "https://github.com/k0d13/steam-size-on-disk/releases/download/v1.4.0/size-on-disk-1.4.0.star",
+				"size": 18854,
+				"sha256": "5138f392a60d1e3d68db93836e0d82bf1591a4bb72f509294b496b1b9fec5404",
+				"format": "star"
+			}
+		},
+		{
+			"id": "steam-share",
+			"name": "Steam Share",
+			"description": "Adds a native-style Share action to Steam Store game pages.",
+			"author": "wopln",
+			"repository": "https://github.com/wopln/Steam-Share",
+			"license": "MIT",
+			"version": "1.1.0",
+			"released": "2026-07-31T16:52:46Z",
+			"stars": 2,
+			"tags": [
+				"store",
+				"sharing"
+			],
+			"download": {
+				"url": "https://github.com/wopln/Steam-Share/releases/download/v1.1.0/Steam-Share-v1.1.0.zip",
+				"size": 236309,
+				"sha256": "d398a1bfc28c927f3fa1c48068aa0d1387a4254573bc84fa0f156b047140c5d8",
+				"format": "zip"
+			}
+		}
+	],
+	"themes": [
+		{
+			"id": "Adwaita-for-Steam",
+			"owner": "tkashkin",
+			"name": "Adwaita",
+			"description": "A skin to make Steam look more like a native GNOME app",
+			"author": "tkashkin",
+			"repository": "https://github.com/tkashkin/Adwaita-for-Steam",
+			"license": "MIT",
+			"version": "4.5",
+			"released": "2026-11-18T00:54:34Z",
+			"stars": 1612,
+			"image": "https://raw.githubusercontent.com/tkashkin/Adwaita-for-Steam/master/screenshots/dark.png",
+			"download": {
+				"url": "https://codeload.github.com/tkashkin/Adwaita-for-Steam/zip/e119cbdcdec6cd868a9c4afa47e6a5d6d348f342",
+				"commit": "e119cbdcdec6cd868a9c4afa47e6a5d6d348f342"
+			}
+		},
+		{
+			"id": "AeroXP",
+			"owner": "Sennanon87",
+			"name": "Aero XP",
+			"description": "A steam skin that replicates the ui of Windows Media Player 11 on Windows XP.",
+			"author": "Sennanon",
+			"repository": "https://github.com/Sennanon87/AeroXP",
+			"license": null,
+			"version": "1.7.6",
+			"released": "2026-07-27T20:07:17Z",
+			"stars": 38,
+			"image": "https://raw.githubusercontent.com/Sennanon87/AeroXP/refs/heads/main/Previews/Preview1.png",
+			"kofi": "bau734537",
+			"download": {
+				"url": "https://codeload.github.com/Sennanon87/AeroXP/zip/06055fea6a0a41645c1d7fd77669be24dc59da99",
+				"commit": "06055fea6a0a41645c1d7fd77669be24dc59da99"
+			}
+		},
+		{
+			"id": "Aika",
+			"owner": "hatewxb",
+			"name": "Aika",
+			"description": "A warm dark theme for Steam: Fluent structure, file-system-style panels and soft spots of light on a near-black background.",
+			"author": "hatewxb",
+			"repository": "https://github.com/hatewxb/Aika",
+			"license": null,
+			"version": "0.1.8",
+			"released": "2026-11-02T15:59:43Z",
+			"stars": 27,
+			"image": "https://raw.githubusercontent.com/hatewxb/Aika/main/screenshots/store-app.jpg",
+			"download": {
+				"url": "https://codeload.github.com/hatewxb/Aika/zip/26203656466dbab31ab644fa9c425cdd2d565c85",
+				"commit": "26203656466dbab31ab644fa9c425cdd2d565c85"
+			}
+		},
+		{
+			"id": "ATOMS",
+			"owner": "Plaer1",
+			"name": "ATOMS",
+			"description": "Just another \"take\" on Metro Steam.",
+			"author": "Plaer1",
+			"repository": "https://github.com/Plaer1/ATOMS",
+			"license": null,
+			"version": "1.1.1.1.1.1.1.1.13",
+			"released": "2026-11-12T20:53:03Z",
+			"stars": 24,
+			"image": "https://raw.githubusercontent.com/Plaer1/ATOMS/main/docs/media/library-dark.webp",
+			"download": {
+				"url": "https://codeload.github.com/Plaer1/ATOMS/zip/45406b137d9673e77dfd2e482165daf3a498cd4d",
+				"commit": "45406b137d9673e77dfd2e482165daf3a498cd4d"
+			},
+			"verified": true
+		},
+		{
+			"id": "blueArchiveSteamSkin",
+			"owner": "EugeneXXXie",
+			"name": "BlueArchive",
+			"description": "BlueArchive Steam theme",
+			"author": "EugeneXXXie",
+			"repository": "https://github.com/EugeneXXXie/blueArchiveSteamSkin",
+			"license": "MIT",
+			"version": "1.3.61",
+			"released": "2026-09-30T23:32:39Z",
+			"stars": 41,
+			"image": "https://raw.githubusercontent.com/EugeneXXXie/imagesBase/master/blueArchiveSteamSkinImages/baLOGO.png",
+			"download": {
+				"url": "https://codeload.github.com/EugeneXXXie/blueArchiveSteamSkin/zip/7900c02a30b390315dc2ff5e5a86815ceb9abb4e",
+				"commit": "7900c02a30b390315dc2ff5e5a86815ceb9abb4e"
+			},
+			"verified": true
+		},
+		{
+			"id": "Classic-Steam-Library",
+			"owner": "eyedine2",
+			"name": "Classic Steam Library",
+			"description": "Brings Steam's 2013 & 2015 looks to the modern day",
+			"author": "naii_",
+			"repository": "https://github.com/eyedine2/Classic-Steam-Library",
+			"license": null,
+			"version": "1.1",
+			"released": "2026-04-07T06:55:40Z",
+			"stars": 87,
+			"image": "https://raw.githubusercontent.com/eyedine2/Classic-Steam-Library/refs/heads/main/preview.png",
+			"kofi": "naii_",
+			"download": {
+				"url": "https://codeload.github.com/eyedine2/Classic-Steam-Library/zip/ca2e4a36911832d027153a3c83791b58007122d6",
+				"commit": "ca2e4a36911832d027153a3c83791b58007122d6"
+			},
+			"verified": true
+		},
+		{
+			"id": "glass-dusk",
+			"owner": "Yareli0i",
+			"name": "Glass Dusk",
+			"description": "Smoked glass over the art of the game you have open: the client takes its accent colour from that art. Styles the library, store, menus, Big Picture and the in-game overlay.",
+			"author": "Yareli",
+			"repository": "https://github.com/Yareli0i/glass-dusk",
+			"license": null,
+			"version": "2.0.4",
+			"released": "2026-11-16T09:07:33Z",
+			"stars": 26,
+			"image": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/main/images/splash.jpg",
+			"kofi": "yareli0i",
+			"download": {
+				"url": "https://codeload.github.com/Yareli0i/glass-dusk/zip/21eeba47981051ade3db5b49cb28795633a039eb",
+				"commit": "21eeba47981051ade3db5b49cb28795633a039eb"
+			},
+			"verified": true
+		},
+		{
+			"id": "juxtematic",
+			"owner": "ricewind012",
+			"name": "Juxtematic",
+			"description": "The redesign from Juxtopposed",
+			"author": "ricewind",
+			"repository": "https://github.com/ricewind012/juxtematic",
+			"license": null,
+			"version": "1.1.0",
+			"released": "2026-11-13T15:24:08Z",
+			"stars": 16,
+			"image": "https://raw.githubusercontent.com/ricewind012/juxtematic/master/assets/preview/main-window.png",
+			"download": {
+				"url": "https://codeload.github.com/ricewind012/juxtematic/zip/d8e71fdd9780583a1042ccdbd3edef41d99b1223",
+				"commit": "d8e71fdd9780583a1042ccdbd3edef41d99b1223"
+			}
+		},
+		{
+			"id": "steam-leimu",
+			"owner": "yufengOvO",
+			"name": "leimu",
+			"description": "leimu skins",
+			"author": "yufengOvO",
+			"repository": "https://github.com/yufengOvO/steam-leimu",
+			"license": "MIT",
+			"version": "1.1.5",
+			"released": "2026-07-21T03:59:55Z",
+			"stars": 30,
+			"image": "https://raw.githubusercontent.com/yufengOvO/steam-leimu/refs/heads/main/images/splash.png",
+			"download": {
+				"url": "https://codeload.github.com/yufengOvO/steam-leimu/zip/9c86ffb54991e1b2cad897fa3cd4504d1a9afa5a",
+				"commit": "9c86ffb54991e1b2cad897fa3cd4504d1a9afa5a"
+			}
+		},
+		{
+			"id": "Material-Theme",
+			"owner": "kuska1",
+			"name": "Material",
+			"description": "Theme based on Google's Material 3 Design.",
+			"author": "kuska1",
+			"repository": "https://github.com/kuska1/Material-Theme",
+			"license": "MIT",
+			"version": "1.5.21",
+			"released": "2026-11-18T20:50:07Z",
+			"stars": 91,
+			"image": "https://raw.githubusercontent.com/kuska1/Material-Theme/refs/heads/main/.github/banner.jpg",
+			"kofi": "flowird",
+			"download": {
+				"url": "https://codeload.github.com/kuska1/Material-Theme/zip/114522b6db129a6f87eb4eb89195ef277656ac20",
+				"commit": "114522b6db129a6f87eb4eb89195ef277656ac20"
+			},
+			"verified": true
+		},
+		{
+			"id": "MetroSteam",
+			"owner": "RoseTheFlower",
+			"name": "Metro by Rose",
+			"description": "A skin heavily inspired by the original Metro for Steam.",
+			"author": "Rose",
+			"repository": "https://github.com/RoseTheFlower/MetroSteam",
+			"license": null,
+			"version": "",
+			"released": "2026-11-20T10:42:03Z",
+			"stars": 283,
+			"image": "https://i.imgur.com/PQF7r4t.png",
+			"download": {
+				"url": "https://codeload.github.com/RoseTheFlower/MetroSteam/zip/4e71ca7cf0b494e7dff6eeb4c4d3a75979d1db7d",
+				"commit": "4e71ca7cf0b494e7dff6eeb4c4d3a75979d1db7d"
+			},
+			"verified": true
+		},
+		{
+			"id": "aerothemesteam",
+			"owner": "ricewind012",
+			"name": "Microsoft Office 2007 Styled Theme",
+			"description": "five hundred aeros",
+			"author": "ricewind",
+			"repository": "https://github.com/ricewind012/aerothemesteam",
+			"license": null,
+			"version": "1.8.0",
+			"released": "2026-06-11T18:38:28Z",
+			"stars": 43,
+			"image": "https://raw.githubusercontent.com/ricewind012/aerothemesteam/master/assets/preview/main-window.png",
+			"download": {
+				"url": "https://codeload.github.com/ricewind012/aerothemesteam/zip/8e176621470fe461dd668fbe46f761768ecc49c1",
+				"commit": "8e176621470fe461dd668fbe46f761768ecc49c1"
+			}
+		},
+		{
+			"id": "Minimal-Dark-for-Steam",
+			"owner": "SaiyajinK",
+			"name": "Minimal Dark",
+			"description": "Highly customizable dark minimalist skin for Steam.",
+			"author": "SaiyajinK",
+			"repository": "https://github.com/SaiyajinK/Minimal-Dark-for-Steam",
+			"license": null,
+			"version": "6.6.5",
+			"released": "2026-11-19T09:56:34Z",
+			"stars": 134,
+			"image": "https://i.imgur.com/h75s8C4.jpeg",
+			"kofi": "saiyajink",
+			"download": {
+				"url": "https://codeload.github.com/SaiyajinK/Minimal-Dark-for-Steam/zip/9dd1a569a39f4cd28cdc4983fcfa9291501cb15e",
+				"commit": "9dd1a569a39f4cd28cdc4983fcfa9291501cb15e"
+			}
+		},
+		{
+			"id": "MontBlack",
+			"owner": "iBedro",
+			"name": "Mont Black",
+			"description": "Dark charcoal Steam theme with cyan accents.",
+			"author": "Bedro",
+			"repository": "https://github.com/iBedro/MontBlack",
+			"license": null,
+			"version": "5.3.0",
+			"released": "2026-09-09T20:38:00Z",
+			"stars": 4,
+			"image": "https://raw.githubusercontent.com/iBedro/MontBlack/main/assets/splash.png",
+			"download": {
+				"url": "https://codeload.github.com/iBedro/MontBlack/zip/2213b29724e36c46b67d7c0721a2e7cfe26be995",
+				"commit": "2213b29724e36c46b67d7c0721a2e7cfe26be995"
+			},
+			"verified": true
+		},
+		{
+			"id": "NEVKO-UI",
+			"owner": "dotFelixan",
+			"name": "NEVKO-UI",
+			"description": "Another Design for Steam",
+			"author": "dotFelixan",
+			"repository": "https://github.com/dotFelixan/NEVKO-UI",
+			"license": null,
+			"version": "1.1.0",
+			"released": "2026-10-20T15:19:34Z",
+			"stars": 125,
+			"image": "https://i.imgur.com/dqCDCH2.png",
+			"download": {
+				"url": "https://codeload.github.com/dotFelixan/NEVKO-UI/zip/47733c96cb6c0c3281c1d2e9b3c33ef3aa70b8e3",
+				"commit": "47733c96cb6c0c3281c1d2e9b3c33ef3aa70b8e3"
+			},
+			"verified": true
+		},
+		{
+			"id": "OldSteam-Theme",
+			"owner": "MapleAtMorning",
+			"name": "OldSteam",
+			"description": "The weirdest amalgamation of modern and old steam",
+			"author": "MapleAtMorning",
+			"repository": "https://github.com/MapleAtMorning/OldSteam-Theme",
+			"license": null,
+			"version": "0",
+			"released": "2026-02-28T18:19:54Z",
+			"stars": 52,
+			"image": "https://raw.githubusercontent.com/MapleAtMorning/MapleAtMorning/main/steamui.png",
+			"kofi": "mapleatmorning",
+			"download": {
+				"url": "https://codeload.github.com/MapleAtMorning/OldSteam-Theme/zip/9a7214a90ddc3af1dae14786719103cd7c186e6e",
+				"commit": "9a7214a90ddc3af1dae14786719103cd7c186e6e"
+			}
+		},
+		{
+			"id": "simply-dark",
+			"owner": "ejalxndr",
+			"name": "Simple Dark.",
+			"description": "A sleek and elegant theme that brings a darker, more immersive experience to your Steam client.",
+			"author": "ShadowMonster",
+			"repository": "https://github.com/ejalxndr/simply-dark",
+			"license": null,
+			"version": "1.8",
+			"released": "2026-10-22T03:20:43Z",
+			"stars": 69,
+			"image": "https://i.imgur.com/uXtPTnr.png",
+			"download": {
+				"url": "https://codeload.github.com/shdwmtr/simply-dark/zip/d5fde36af9ad4d376664fad7f211e76da720bba6",
+				"commit": "d5fde36af9ad4d376664fad7f211e76da720bba6"
+			}
+		},
+		{
+			"id": "Steam",
+			"owner": "SpaceTheme",
+			"name": "SpaceTheme for Steam",
+			"description": "Theme with a dark aesthetic and modular-inspired look, offering clarity, flexibility, and an enhanced user experience.",
+			"author": "SpaceEnergy",
+			"repository": "https://github.com/SpaceTheme/Steam",
+			"license": "MIT",
+			"version": "",
+			"released": "2026-11-12T14:00:13Z",
+			"stars": 292,
+			"image": "https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/preview.webp",
+			"kofi": "spacetheme",
+			"download": {
+				"url": "https://codeload.github.com/SpaceTheme/Steam/zip/65bc106e8a1fe04c359d5b9d5c6f00e4081506ef",
+				"commit": "65bc106e8a1fe04c359d5b9d5c6f00e4081506ef"
+			}
+		},
+		{
+			"id": "Steam2.0-modular",
+			"owner": "Br1Rol2",
+			"name": "Steam 2.0 modular",
+			"description": "Steam 2.0 Modular is an elegant and minimalist theme inspired by GOG 2.0 that modernizes the Steam experience. It allows you to change and create different color gradients for all the app’s backgrounds, manually sort the library, and hide the game list and new shelf. This theme focuses on simplifying the interface by removing unnecessary visual elements and reorganizing content more efficiently, all while maintaining the full functionality of Steam.",
+			"author": "Von-Amadeus",
+			"repository": "https://github.com/Br1Rol2/Steam2.0-modular",
+			"license": "GPL-3.0",
+			"version": "1.0.6",
+			"released": "2026-11-14T05:35:23Z",
+			"stars": 8,
+			"image": "https://i.imgur.com/sCCMnkG.png",
+			"download": {
+				"url": "https://codeload.github.com/Br1Rol2/Steam2.0-modular/zip/4bdca7e7b129cfa177bc543a0961540c4df55e92",
+				"commit": "4bdca7e7b129cfa177bc543a0961540c4df55e92"
+			},
+			"verified": true
+		},
+		{
+			"id": "SteamUI-GoldenEra",
+			"owner": "Jonius7",
+			"name": "SteamUI-GoldenEra",
+			"description": "A fully color-customizable Steam theme with flexible layout options inspired by the classic Steam look.",
+			"author": "Jonius7",
+			"repository": "https://github.com/Jonius7/SteamUI-GoldenEra",
+			"license": "Apache-2.0",
+			"version": "0.6.2-beta",
+			"released": "2026-06-09T09:49:48Z",
+			"stars": 4,
+			"image": "https://i.imgur.com/fMW9D8w.png",
+			"kofi": "jonius7",
+			"download": {
+				"url": "https://codeload.github.com/Jonius7/SteamUI-GoldenEra/zip/7a452d3d66dd7b3b71f6af2914aacf5f48d3fd43",
+				"commit": "7a452d3d66dd7b3b71f6af2914aacf5f48d3fd43"
+			}
+		},
+		{
+			"id": "TsukushiAria-theme",
+			"owner": "1739321142",
+			"name": "TsukushiAria",
+			"description": "The genius, unrivaled, ultimate necromancer! 👻✩⡱ I think I'm gonna completely captivate all those pushover adults~ 💜",
+			"author": "muamuamua",
+			"repository": "https://github.com/1739321142/TsukushiAria-theme",
+			"license": null,
+			"version": "1.2.4",
+			"released": "2026-08-21T14:09:03Z",
+			"stars": 4,
+			"image": "https://raw.githubusercontent.com/1739321142/TsukushiAria-theme/refs/heads/main/imgs/splash_image.png",
+			"download": {
+				"url": "https://codeload.github.com/1739321142/TsukushiAria-theme/zip/2704fdf37ca2ec9a978c0ced17be7ed231eb983b",
+				"commit": "2704fdf37ca2ec9a978c0ced17be7ed231eb983b"
+			},
+			"verified": true
+		},
+		{
+			"id": "UltraWide",
+			"owner": "guyonphone",
+			"name": "UltraWide",
+			"description": "An ultrawide-focused Steam Store redesign with a three-lane homepage, expanded app pages, deterministic purchase placement, a React-safe in-page customer review browser with pinned controls, mouse gutters, natural page scroll chaining, paint-safe toggleable review graphs, strict app/home runtime isolation, and early cold-start loading feedback.",
+			"author": "guyonphone",
+			"repository": "https://github.com/guyonphone/UltraWide",
+			"license": "MIT",
+			"version": "85.0.0",
+			"released": "2026-09-08T06:30:08Z",
+			"stars": 2,
+			"image": "https://raw.githubusercontent.com/guyonphone/UltraWide/main/assets/screenshots/app-page.png",
+			"download": {
+				"url": "https://codeload.github.com/guyonphone/UltraWide/zip/c246f651756aba275b30b2c74c5acfc4c62c5d6a",
+				"commit": "c246f651756aba275b30b2c74c5acfc4c62c5d6a"
+			}
+		},
+		{
+			"id": "umi-asanagi-theme",
+			"owner": "aaeriih",
+			"name": "umi-asanagi-theme",
+			"description": "Originally created by yufengOvO as 'Steam Leimu'. Personalized version by aaeriih with Material Design 3 style.",
+			"author": "aaeriih",
+			"repository": "https://github.com/aaeriih/umi-asanagi-theme",
+			"license": "MIT",
+			"version": "1.0.0",
+			"released": "2026-08-12T01:12:36Z",
+			"stars": 0,
+			"image": "https://raw.githubusercontent.com/aaeriih/umi-asanagi-theme/refs/heads/main/images/splash.png",
+			"download": {
+				"url": "https://codeload.github.com/aaeriih/umi-asanagi-theme/zip/276bb2efedea7d5a694bd8711c472708f8d49b44",
+				"commit": "276bb2efedea7d5a694bd8711c472708f8d49b44"
+			},
+			"verified": true
+		},
+		{
+			"id": "win95-themes",
+			"owner": "ricewind012",
+			"name": "Windows 95",
+			"description": "A faithful Windows 95-styled look",
+			"author": "ricewind",
+			"repository": "https://github.com/ricewind012/win95-themes",
+			"license": null,
+			"version": "2.3.0",
+			"released": "2026-11-16T10:17:52Z",
+			"stars": 192,
+			"image": "https://raw.githubusercontent.com/ricewind012/win95-themes/master/assets/preview/steam/main-window.png",
+			"download": {
+				"url": "https://codeload.github.com/ricewind012/win95-themes/zip/ed1bffcc4429d2cbcd3eadef90ca49a8b2d623cf",
+				"commit": "ed1bffcc4429d2cbcd3eadef90ca49a8b2d623cf"
+			}
+		},
+		{
+			"id": "Zehn",
+			"owner": "yurisuika",
+			"name": "Zehn",
+			"description": "Windows 10 Fluent Design for Steam - Minimal, colorable, light/dark, and more!",
+			"author": "yurisuika",
+			"repository": "https://github.com/yurisuika/Zehn",
+			"license": null,
+			"version": "2026.11.14",
+			"released": "2026-11-15T04:00:45Z",
+			"stars": 141,
+			"image": "https://raw.githubusercontent.com/yurisuika/Zehn/refs/heads/assets/splash.gif",
+			"download": {
+				"url": "https://codeload.github.com/yurisuika/Zehn/zip/29a7c5a34f0648ed85305a377255a8e27f9f0f5f",
+				"commit": "29a7c5a34f0648ed85305a377255a8e27f9f0f5f"
+			}
+		}
+	]
+}
