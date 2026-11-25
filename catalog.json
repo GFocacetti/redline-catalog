@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"generated": "2026-11-25T12:20:35.021Z",
+	"generated": "2026-11-25T14:31:27.564Z",
 	"tags": [
 		{
 			"id": "where",
@@ -663,27 +663,6 @@
 				"url": "https://github.com/BambooFury/Dota-Stats/releases/download/2.0.0/dotastats.v2.0.0.zip",
 				"size": 17322,
 				"sha256": "e2ac638362c079626a8d7c919f1d984459beb0436170806d429bdf74c8ab7b97",
-				"format": "zip"
-			}
-		},
-		{
-			"id": "extendium",
-			"name": "Extendium",
-			"description": "Chrome extension support for Steam. Install extensions like SteamDB, Augmented Steam, UBlock Origin, and more in your Steam Desktop Client",
-			"author": "BossSloth",
-			"repository": "https://github.com/BossSloth/Extendium",
-			"license": "MIT",
-			"version": "2.0.5",
-			"released": "2026-10-17T13:55:27Z",
-			"stars": 325,
-			"tags": [
-				"client",
-				"extensions"
-			],
-			"download": {
-				"url": "https://github.com/BossSloth/Extendium/releases/download/v2.0.5/extendium-2.0.5.zip",
-				"size": 80134,
-				"sha256": "07e3917e8bf8cd624a5e6b8d1c485676ab88aef9cc27eedd3ddf52932d212f36",
 				"format": "zip"
 			}
 		},
@@ -1474,14 +1453,20 @@
 			"id": "ngonfifpkpeefnhelnfdkficaiihklid",
 			"name": "ProtonDB for Steam",
 			"description": "Shows the ProtonDB rating (how well a game runs on Linux and Steam Deck) on store pages and in search results.",
-			"verified": true
+			"verified": true,
+			"overlaps": [
+				"com.unicxrn.protondb"
+			]
 		},
 		{
 			"id": "cmdknlhmnkeilgeekfmndhokneknihmi",
 			"name": "HLTB for Steam",
 			"description": "Shows HowLongToBeat completion times on store and community game pages.",
 			"homepage": "https://github.com/k4sr4/hltbsteam",
-			"verified": true
+			"verified": true,
+			"overlaps": [
+				"hltb-for-millennium"
+			]
 		},
 		{
 			"id": "lcobepkldcbbjfnpjnonocmlifjdlcdh",
