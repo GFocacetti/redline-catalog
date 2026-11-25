@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"generated": "2026-11-20T16:33:45.514Z",
+	"generated": "2026-11-25T12:20:35.021Z",
 	"tags": [
 		{
 			"id": "where",
@@ -1453,6 +1453,88 @@
 				"url": "https://codeload.github.com/yurisuika/Zehn/zip/29a7c5a34f0648ed85305a377255a8e27f9f0f5f",
 				"commit": "29a7c5a34f0648ed85305a377255a8e27f9f0f5f"
 			}
+		}
+	],
+	"extensions": [
+		{
+			"id": "dnhpnfgdlenaccegplpojghhmaamnnfp",
+			"name": "Augmented Steam",
+			"description": "Adds prices from other stores, price history, review scores, links to SteamDB, PCGamingWiki and more to store and community pages.",
+			"homepage": "https://augmentedsteam.com/",
+			"verified": true
+		},
+		{
+			"id": "kdbmhfkmnlmbkgbabkdealhhbfhlmmon",
+			"name": "SteamDB",
+			"description": "Adds SteamDB information to store pages: lowest recorded price, rating, player counts and quick links to SteamDB.",
+			"homepage": "https://steamdb.info/extension/",
+			"verified": true
+		},
+		{
+			"id": "ngonfifpkpeefnhelnfdkficaiihklid",
+			"name": "ProtonDB for Steam",
+			"description": "Shows the ProtonDB rating (how well a game runs on Linux and Steam Deck) on store pages and in search results.",
+			"verified": true
+		},
+		{
+			"id": "cmdknlhmnkeilgeekfmndhokneknihmi",
+			"name": "HLTB for Steam",
+			"description": "Shows HowLongToBeat completion times on store and community game pages.",
+			"homepage": "https://github.com/k4sr4/hltbsteam",
+			"verified": true
+		},
+		{
+			"id": "lcobepkldcbbjfnpjnonocmlifjdlcdh",
+			"name": "Is It On Game Pass",
+			"description": "Shows on store pages whether a game is on Xbox Game Pass, with deals from GG.deals.",
+			"verified": true
+		},
+		{
+			"id": "canbadmphamemnmdfngmcabnjmjgaiki",
+			"name": "Ban Checker for Steam",
+			"description": "Shows VAC and game bans next to your friends, the people you played with and group members.",
+			"verified": true
+		},
+		{
+			"id": "jjicbefpemnphinccgikpdaagjebbnhg",
+			"name": "CSFloat Market Checker",
+			"description": "Shows float value, paint seed and more for Counter-Strike items in the Steam Market and inventories.",
+			"homepage": "https://csfloat.com/",
+			"verified": true
+		},
+		{
+			"id": "kaibcgikagnkfgjnibflebpldakfhfih",
+			"name": "CS2 Trader",
+			"description": "Tools for Counter-Strike 2 trading: inventory totals and selection, prices, trade-lock countdowns and links to other markets.",
+			"homepage": "https://cs2trader.app/",
+			"verified": true
+		},
+		{
+			"id": "bibdjkcebiliphphjbnkngdjgeklgcdf",
+			"name": "Allkeyshop - Compare Game Prices",
+			"description": "Compares the Steam price of a game with key shops, on game pages and in the wishlist.",
+			"homepage": "https://www.allkeyshop.com/",
+			"verified": true
+		},
+		{
+			"id": "kdappijekicdbempkjaahnnmkookhfnj",
+			"name": "Steam Artwork Hub Essentials",
+			"description": "Lets you upload long artworks, screenshots, workshop items and guides to your Steam profile.",
+			"verified": true
+		},
+		{
+			"id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+			"name": "Dark Reader",
+			"description": "Dark mode for light web pages, such as the ones opened from Steam's browser.",
+			"homepage": "https://darkreader.org/",
+			"verified": true
+		},
+		{
+			"id": "ddkjiahejlhfcafbddmgiahcphecmpfh",
+			"name": "uBlock Origin Lite",
+			"description": "Blocks ads and trackers on the web pages opened in Steam's browser.",
+			"homepage": "https://github.com/uBlockOrigin/uBOL-home",
+			"verified": true
 		}
 	]
 }
