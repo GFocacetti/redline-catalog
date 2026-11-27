@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"generated": "2026-11-25T14:31:27.564Z",
+	"generated": "2026-11-27T23:52:09.091Z",
 	"tags": [
 		{
 			"id": "where",
@@ -588,7 +588,7 @@
 			"license": "MIT",
 			"version": "2.1.1",
 			"released": "2026-10-16T21:27:52Z",
-			"stars": 24,
+			"stars": 26,
 			"tags": [
 				"library",
 				"achievements"
@@ -718,7 +718,7 @@
 			"license": "MIT",
 			"version": "1.1.0",
 			"released": "2026-02-02T04:58:02Z",
-			"stars": 14,
+			"stars": 15,
 			"tags": [
 				"library",
 				"launch"
@@ -838,70 +838,26 @@
 			}
 		},
 		{
-			"id": "com.unicxrn.protondb",
-			"name": "ProtonDB",
-			"description": "Shows ProtonDB compatibility and anticheat status on Steam store and library pages.",
-			"author": "unicxrn",
-			"repository": "https://github.com/unicxrn/protondb-millennium",
+			"id": "protondb-plus",
+			"name": "ProtonDB+",
+			"description": "ProtonDB ratings, anticheat status and Linux tools across the Steam store and library: one plugin instead of four.",
+			"author": "GFocacetti",
+			"repository": "https://github.com/GFocacetti/protondb-plus",
 			"license": "MIT",
-			"version": "2.0.0",
-			"released": "2026-10-28T12:43:39Z",
-			"stars": 4,
+			"version": "1.0.0",
+			"released": "2026-11-27T23:50:44Z",
+			"stars": 0,
 			"tags": [
 				"library",
 				"store",
-				"compatibility"
+				"compatibility",
+				"organize"
 			],
 			"download": {
-				"url": "https://github.com/unicxrn/protondb-millennium/releases/download/v2.0.0/protondb-v2.0.0.star",
-				"size": 47389,
-				"sha256": "0089faac5c85cbf29a1f45b66bc0b339ad9b824502d8b952849e90cdbe6f0c40",
+				"url": "https://github.com/GFocacetti/protondb-plus/releases/download/v1.0.0/protondb-plus-v1.0.0.star",
+				"size": 208897,
+				"sha256": "5e5563c417f798443efceb75076e151be887946ec7d1ca64fe681d8f512e3cac",
 				"format": "star"
-			},
-			"replaces": [
-				"protondb"
-			]
-		},
-		{
-			"id": "protondb-library-badges",
-			"name": "ProtonDB Library Badges",
-			"description": "ProtonDB compatibility tiers in the desktop Steam library: inline game-page stat, sidebar indicators, and a tier section in the Library Filters panel.",
-			"author": "Yohlo",
-			"repository": "https://github.com/Yohlo/protondb-library-badges",
-			"license": null,
-			"version": "1.0.1",
-			"released": "2026-10-01T23:46:06Z",
-			"stars": 1,
-			"tags": [
-				"library",
-				"compatibility"
-			],
-			"download": {
-				"url": "https://github.com/Yohlo/protondb-library-badges/releases/download/v1.0.1/protondb-library-badges-v1.0.1.zip",
-				"size": 11627,
-				"sha256": "82073f19ba17f216eeba234ecafb27e5990a9d0f3885d50bacca1588d113f2d2",
-				"format": "zip"
-			}
-		},
-		{
-			"id": "protondb-status",
-			"name": "ProtonDB Status",
-			"description": "Show ProtonDB compatibility ratings on game library pages.",
-			"author": "nyakuoff",
-			"repository": "https://github.com/nyakuoff/protondb-badge",
-			"license": null,
-			"version": "1.0.0",
-			"released": "2026-04-07T03:24:07Z",
-			"stars": 6,
-			"tags": [
-				"library",
-				"compatibility"
-			],
-			"download": {
-				"url": "https://github.com/nyakuoff/protondb-badge/releases/download/v1.0.0/protondb-status-1.0.0.zip",
-				"size": 662482,
-				"sha256": "76bec24eeab7c4e5709d351d2a752d88ac7362a912bbbc75afb433a7610813a9",
-				"format": "zip"
 			}
 		},
 		{
@@ -999,7 +955,7 @@
 			"license": "MIT",
 			"version": "4.5",
 			"released": "2026-11-18T00:54:34Z",
-			"stars": 1612,
+			"stars": 1616,
 			"image": "https://raw.githubusercontent.com/tkashkin/Adwaita-for-Steam/master/screenshots/dark.png",
 			"download": {
 				"url": "https://codeload.github.com/tkashkin/Adwaita-for-Steam/zip/e119cbdcdec6cd868a9c4afa47e6a5d6d348f342",
@@ -1016,7 +972,7 @@
 			"license": null,
 			"version": "1.7.6",
 			"released": "2026-07-27T20:07:17Z",
-			"stars": 38,
+			"stars": 37,
 			"image": "https://raw.githubusercontent.com/Sennanon87/AeroXP/refs/heads/main/Previews/Preview1.png",
 			"kofi": "bau734537",
 			"download": {
@@ -1034,7 +990,7 @@
 			"license": null,
 			"version": "0.1.8",
 			"released": "2026-11-02T15:59:43Z",
-			"stars": 27,
+			"stars": 29,
 			"image": "https://raw.githubusercontent.com/hatewxb/Aika/main/screenshots/store-app.jpg",
 			"download": {
 				"url": "https://codeload.github.com/hatewxb/Aika/zip/26203656466dbab31ab644fa9c425cdd2d565c85",
@@ -1053,11 +1009,11 @@
 			"released": "2026-11-12T20:53:03Z",
 			"stars": 24,
 			"image": "https://raw.githubusercontent.com/Plaer1/ATOMS/main/docs/media/library-dark.webp",
+			"verified": true,
 			"download": {
 				"url": "https://codeload.github.com/Plaer1/ATOMS/zip/45406b137d9673e77dfd2e482165daf3a498cd4d",
 				"commit": "45406b137d9673e77dfd2e482165daf3a498cd4d"
-			},
-			"verified": true
+			}
 		},
 		{
 			"id": "blueArchiveSteamSkin",
@@ -1069,13 +1025,13 @@
 			"license": "MIT",
 			"version": "1.3.61",
 			"released": "2026-09-30T23:32:39Z",
-			"stars": 41,
+			"stars": 42,
 			"image": "https://raw.githubusercontent.com/EugeneXXXie/imagesBase/master/blueArchiveSteamSkinImages/baLOGO.png",
+			"verified": true,
 			"download": {
 				"url": "https://codeload.github.com/EugeneXXXie/blueArchiveSteamSkin/zip/7900c02a30b390315dc2ff5e5a86815ceb9abb4e",
 				"commit": "7900c02a30b390315dc2ff5e5a86815ceb9abb4e"
-			},
-			"verified": true
+			}
 		},
 		{
 			"id": "Classic-Steam-Library",
@@ -1087,14 +1043,14 @@
 			"license": null,
 			"version": "1.1",
 			"released": "2026-04-07T06:55:40Z",
-			"stars": 87,
+			"stars": 85,
 			"image": "https://raw.githubusercontent.com/eyedine2/Classic-Steam-Library/refs/heads/main/preview.png",
 			"kofi": "naii_",
+			"verified": true,
 			"download": {
 				"url": "https://codeload.github.com/eyedine2/Classic-Steam-Library/zip/ca2e4a36911832d027153a3c83791b58007122d6",
 				"commit": "ca2e4a36911832d027153a3c83791b58007122d6"
-			},
-			"verified": true
+			}
 		},
 		{
 			"id": "glass-dusk",
@@ -1104,16 +1060,16 @@
 			"author": "Yareli",
 			"repository": "https://github.com/Yareli0i/glass-dusk",
 			"license": null,
-			"version": "2.0.4",
-			"released": "2026-11-16T09:07:33Z",
-			"stars": 26,
+			"version": "2.0.5",
+			"released": "2026-11-27T17:42:21Z",
+			"stars": 35,
 			"image": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/main/images/splash.jpg",
 			"kofi": "yareli0i",
+			"verified": true,
 			"download": {
-				"url": "https://codeload.github.com/Yareli0i/glass-dusk/zip/21eeba47981051ade3db5b49cb28795633a039eb",
-				"commit": "21eeba47981051ade3db5b49cb28795633a039eb"
-			},
-			"verified": true
+				"url": "https://codeload.github.com/Yareli0i/glass-dusk/zip/70e32e1e2d3b0573f1614fe4416c3f51758d32a7",
+				"commit": "70e32e1e2d3b0573f1614fe4416c3f51758d32a7"
+			}
 		},
 		{
 			"id": "juxtematic",
@@ -1157,16 +1113,16 @@
 			"author": "kuska1",
 			"repository": "https://github.com/kuska1/Material-Theme",
 			"license": "MIT",
-			"version": "1.5.21",
-			"released": "2026-11-18T20:50:07Z",
-			"stars": 91,
+			"version": "1.5.22",
+			"released": "2026-11-27T16:36:37Z",
+			"stars": 92,
 			"image": "https://raw.githubusercontent.com/kuska1/Material-Theme/refs/heads/main/.github/banner.jpg",
 			"kofi": "flowird",
+			"verified": true,
 			"download": {
-				"url": "https://codeload.github.com/kuska1/Material-Theme/zip/114522b6db129a6f87eb4eb89195ef277656ac20",
-				"commit": "114522b6db129a6f87eb4eb89195ef277656ac20"
-			},
-			"verified": true
+				"url": "https://codeload.github.com/kuska1/Material-Theme/zip/0773d675851369f1bae2277749787079f2b9cea8",
+				"commit": "0773d675851369f1bae2277749787079f2b9cea8"
+			}
 		},
 		{
 			"id": "MetroSteam",
@@ -1178,13 +1134,13 @@
 			"license": null,
 			"version": "",
 			"released": "2026-11-20T10:42:03Z",
-			"stars": 283,
+			"stars": 282,
 			"image": "https://i.imgur.com/PQF7r4t.png",
+			"verified": true,
 			"download": {
 				"url": "https://codeload.github.com/RoseTheFlower/MetroSteam/zip/4e71ca7cf0b494e7dff6eeb4c4d3a75979d1db7d",
 				"commit": "4e71ca7cf0b494e7dff6eeb4c4d3a75979d1db7d"
-			},
-			"verified": true
+			}
 		},
 		{
 			"id": "aerothemesteam",
@@ -1211,14 +1167,14 @@
 			"author": "SaiyajinK",
 			"repository": "https://github.com/SaiyajinK/Minimal-Dark-for-Steam",
 			"license": null,
-			"version": "6.6.5",
-			"released": "2026-11-19T09:56:34Z",
+			"version": "6.7.1",
+			"released": "2026-11-27T07:08:50Z",
 			"stars": 134,
-			"image": "https://i.imgur.com/h75s8C4.jpeg",
+			"image": "https://i.imgur.com/y52I7oM.png",
 			"kofi": "saiyajink",
 			"download": {
-				"url": "https://codeload.github.com/SaiyajinK/Minimal-Dark-for-Steam/zip/9dd1a569a39f4cd28cdc4983fcfa9291501cb15e",
-				"commit": "9dd1a569a39f4cd28cdc4983fcfa9291501cb15e"
+				"url": "https://codeload.github.com/SaiyajinK/Minimal-Dark-for-Steam/zip/d3b4ad39a38e0a1d3b03f29baddb89a52792cd69",
+				"commit": "d3b4ad39a38e0a1d3b03f29baddb89a52792cd69"
 			}
 		},
 		{
@@ -1233,11 +1189,11 @@
 			"released": "2026-09-09T20:38:00Z",
 			"stars": 4,
 			"image": "https://raw.githubusercontent.com/iBedro/MontBlack/main/assets/splash.png",
+			"verified": true,
 			"download": {
 				"url": "https://codeload.github.com/iBedro/MontBlack/zip/2213b29724e36c46b67d7c0721a2e7cfe26be995",
 				"commit": "2213b29724e36c46b67d7c0721a2e7cfe26be995"
-			},
-			"verified": true
+			}
 		},
 		{
 			"id": "NEVKO-UI",
@@ -1249,13 +1205,13 @@
 			"license": null,
 			"version": "1.1.0",
 			"released": "2026-10-20T15:19:34Z",
-			"stars": 125,
+			"stars": 130,
 			"image": "https://i.imgur.com/dqCDCH2.png",
+			"verified": true,
 			"download": {
 				"url": "https://codeload.github.com/dotFelixan/NEVKO-UI/zip/47733c96cb6c0c3281c1d2e9b3c33ef3aa70b8e3",
 				"commit": "47733c96cb6c0c3281c1d2e9b3c33ef3aa70b8e3"
-			},
-			"verified": true
+			}
 		},
 		{
 			"id": "OldSteam-Theme",
@@ -1301,13 +1257,13 @@
 			"repository": "https://github.com/SpaceTheme/Steam",
 			"license": "MIT",
 			"version": "",
-			"released": "2026-11-12T14:00:13Z",
-			"stars": 292,
+			"released": "2026-11-26T15:50:15Z",
+			"stars": 297,
 			"image": "https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/preview.webp",
 			"kofi": "spacetheme",
 			"download": {
-				"url": "https://codeload.github.com/SpaceTheme/Steam/zip/65bc106e8a1fe04c359d5b9d5c6f00e4081506ef",
-				"commit": "65bc106e8a1fe04c359d5b9d5c6f00e4081506ef"
+				"url": "https://codeload.github.com/SpaceTheme/Steam/zip/a4a32ec19c6597cb739cbf347bd33bf5451cb47a",
+				"commit": "a4a32ec19c6597cb739cbf347bd33bf5451cb47a"
 			}
 		},
 		{
@@ -1322,11 +1278,11 @@
 			"released": "2026-11-14T05:35:23Z",
 			"stars": 8,
 			"image": "https://i.imgur.com/sCCMnkG.png",
+			"verified": true,
 			"download": {
 				"url": "https://codeload.github.com/Br1Rol2/Steam2.0-modular/zip/4bdca7e7b129cfa177bc543a0961540c4df55e92",
 				"commit": "4bdca7e7b129cfa177bc543a0961540c4df55e92"
-			},
-			"verified": true
+			}
 		},
 		{
 			"id": "SteamUI-GoldenEra",
@@ -1355,14 +1311,14 @@
 			"repository": "https://github.com/1739321142/TsukushiAria-theme",
 			"license": null,
 			"version": "1.2.4",
-			"released": "2026-08-21T14:09:03Z",
+			"released": "2026-11-22T06:38:05Z",
 			"stars": 4,
 			"image": "https://raw.githubusercontent.com/1739321142/TsukushiAria-theme/refs/heads/main/imgs/splash_image.png",
+			"verified": true,
 			"download": {
-				"url": "https://codeload.github.com/1739321142/TsukushiAria-theme/zip/2704fdf37ca2ec9a978c0ced17be7ed231eb983b",
-				"commit": "2704fdf37ca2ec9a978c0ced17be7ed231eb983b"
-			},
-			"verified": true
+				"url": "https://codeload.github.com/1739321142/TsukushiAria-theme/zip/9910933b9fd38fb700fd7d08e111d83245e3e61b",
+				"commit": "9910933b9fd38fb700fd7d08e111d83245e3e61b"
+			}
 		},
 		{
 			"id": "UltraWide",
@@ -1393,11 +1349,11 @@
 			"released": "2026-08-12T01:12:36Z",
 			"stars": 0,
 			"image": "https://raw.githubusercontent.com/aaeriih/umi-asanagi-theme/refs/heads/main/images/splash.png",
+			"verified": true,
 			"download": {
 				"url": "https://codeload.github.com/aaeriih/umi-asanagi-theme/zip/276bb2efedea7d5a694bd8711c472708f8d49b44",
 				"commit": "276bb2efedea7d5a694bd8711c472708f8d49b44"
-			},
-			"verified": true
+			}
 		},
 		{
 			"id": "win95-themes",
@@ -1409,7 +1365,7 @@
 			"license": null,
 			"version": "2.3.0",
 			"released": "2026-11-16T10:17:52Z",
-			"stars": 192,
+			"stars": 193,
 			"image": "https://raw.githubusercontent.com/ricewind012/win95-themes/master/assets/preview/steam/main-window.png",
 			"download": {
 				"url": "https://codeload.github.com/ricewind012/win95-themes/zip/ed1bffcc4429d2cbcd3eadef90ca49a8b2d623cf",
@@ -1424,13 +1380,13 @@
 			"author": "yurisuika",
 			"repository": "https://github.com/yurisuika/Zehn",
 			"license": null,
-			"version": "2026.11.14",
-			"released": "2026-11-15T04:00:45Z",
-			"stars": 141,
+			"version": "2026.11.25",
+			"released": "2026-11-26T06:57:07Z",
+			"stars": 142,
 			"image": "https://raw.githubusercontent.com/yurisuika/Zehn/refs/heads/assets/splash.gif",
 			"download": {
-				"url": "https://codeload.github.com/yurisuika/Zehn/zip/29a7c5a34f0648ed85305a377255a8e27f9f0f5f",
-				"commit": "29a7c5a34f0648ed85305a377255a8e27f9f0f5f"
+				"url": "https://codeload.github.com/yurisuika/Zehn/zip/0d73ec7eb25ad95e64ffa7b2f1f530960e93b3be",
+				"commit": "0d73ec7eb25ad95e64ffa7b2f1f530960e93b3be"
 			}
 		}
 	],
@@ -1455,7 +1411,7 @@
 			"description": "Shows the ProtonDB rating (how well a game runs on Linux and Steam Deck) on store pages and in search results.",
 			"verified": true,
 			"overlaps": [
-				"com.unicxrn.protondb"
+				"protondb-plus"
 			]
 		},
 		{
