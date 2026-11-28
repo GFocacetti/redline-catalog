@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"generated": "2026-11-28T13:13:24.853Z",
+	"generated": "2026-11-28T14:14:29.314Z",
 	"tags": [
 		{
 			"id": "where",
@@ -944,17 +944,17 @@
 			"author": "GFocacetti",
 			"repository": "https://github.com/GFocacetti/sc-battery",
 			"license": "GPL-3.0",
-			"version": "0.1.2",
-			"released": "2026-11-28T13:11:32Z",
+			"version": "0.1.3",
+			"released": "2026-11-28T14:13:27Z",
 			"stars": 0,
 			"tags": [
 				"client",
 				"controllers"
 			],
 			"download": {
-				"url": "https://github.com/GFocacetti/sc-battery/releases/download/v0.1.2/sc-battery-0.1.2.zip",
-				"size": 28077,
-				"sha256": "e13d291aa871b0c9fa8e9c5fdbc175fe4dfdf9f53b6b43ab3e36f25a8f431c5c",
+				"url": "https://github.com/GFocacetti/sc-battery/releases/download/v0.1.3/sc-battery-0.1.3.zip",
+				"size": 30340,
+				"sha256": "098463b6400c374b4642bde2cd0a3c0aef49adcd43082fa746a029aaa93d0d9f",
 				"format": "zip"
 			}
 		},
@@ -1225,13 +1225,13 @@
 			"repository": "https://github.com/SaiyajinK/Minimal-Dark-for-Steam",
 			"license": null,
 			"version": "6.7.1",
-			"released": "2026-11-27T07:08:50Z",
+			"released": "2026-11-28T13:30:05Z",
 			"stars": 135,
-			"image": "https://i.imgur.com/y52I7oM.png",
+			"image": "https://raw.githubusercontent.com/SaiyajinK/SaiyajinK/root/millennium_header.png",
 			"kofi": "saiyajink",
 			"download": {
-				"url": "https://codeload.github.com/SaiyajinK/Minimal-Dark-for-Steam/zip/d3b4ad39a38e0a1d3b03f29baddb89a52792cd69",
-				"commit": "d3b4ad39a38e0a1d3b03f29baddb89a52792cd69"
+				"url": "https://codeload.github.com/SaiyajinK/Minimal-Dark-for-Steam/zip/c488d121a8df8f931ee7430316d93fdc31401252",
+				"commit": "c488d121a8df8f931ee7430316d93fdc31401252"
 			}
 		},
 		{
