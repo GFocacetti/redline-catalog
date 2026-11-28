@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"generated": "2026-11-28T15:54:51.088Z",
+	"generated": "2026-11-28T15:57:57.469Z",
 	"tags": [
 		{
 			"id": "where",
@@ -1117,15 +1117,15 @@
 			"author": "Yareli",
 			"repository": "https://github.com/Yareli0i/glass-dusk",
 			"license": null,
-			"version": "2.0.5",
-			"released": "2026-11-27T17:42:21Z",
+			"version": "2.0.7",
+			"released": "2026-11-28T14:40:33Z",
 			"stars": 35,
 			"image": "https://raw.githubusercontent.com/Yareli0i/glass-dusk/main/images/splash.jpg",
 			"kofi": "yareli0i",
 			"verified": true,
 			"download": {
-				"url": "https://codeload.github.com/Yareli0i/glass-dusk/zip/70e32e1e2d3b0573f1614fe4416c3f51758d32a7",
-				"commit": "70e32e1e2d3b0573f1614fe4416c3f51758d32a7"
+				"url": "https://codeload.github.com/Yareli0i/glass-dusk/zip/7e8b9fe61631c948c2fed8e23da42455179ed19c",
+				"commit": "7e8b9fe61631c948c2fed8e23da42455179ed19c"
 			}
 		},
 		{
@@ -1225,13 +1225,13 @@
 			"repository": "https://github.com/SaiyajinK/Minimal-Dark-for-Steam",
 			"license": null,
 			"version": "6.7.1",
-			"released": "2026-11-28T13:30:05Z",
+			"released": "2026-11-28T14:23:32Z",
 			"stars": 135,
-			"image": "https://raw.githubusercontent.com/SaiyajinK/SaiyajinK/root/millennium_header.png",
+			"image": "https://raw.githubusercontent.com/SaiyajinK/SaiyajinK/root/millennium_header_animated.webp",
 			"kofi": "saiyajink",
 			"download": {
-				"url": "https://codeload.github.com/SaiyajinK/Minimal-Dark-for-Steam/zip/c488d121a8df8f931ee7430316d93fdc31401252",
-				"commit": "c488d121a8df8f931ee7430316d93fdc31401252"
+				"url": "https://codeload.github.com/SaiyajinK/Minimal-Dark-for-Steam/zip/4d6505bfc6cbde745f061f980c814d05879d758d",
+				"commit": "4d6505bfc6cbde745f061f980c814d05879d758d"
 			}
 		},
 		{
