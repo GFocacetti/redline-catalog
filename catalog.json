@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"generated": "2026-11-28T16:08:05.227Z",
+	"generated": "2026-11-28T17:47:40.052Z",
 	"tags": [
 		{
 			"id": "where",
@@ -997,6 +997,28 @@
 				"url": "https://github.com/wopln/Steam-Share/releases/download/v1.1.0/Steam-Share-v1.1.0.zip",
 				"size": 236309,
 				"sha256": "d398a1bfc28c927f3fa1c48068aa0d1387a4254573bc84fa0f156b047140c5d8",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "universal-game-importer",
+			"name": "UGI – Universal Game Importer",
+			"description": "Brings any game into your Steam library: imports games from other launchers or adds them by hand, with pictures, store pages and achievements.",
+			"author": "GFocacetti",
+			"repository": "https://github.com/GFocacetti/universal-game-importer",
+			"license": "GPL-3.0",
+			"version": "0.67.6",
+			"released": "2026-11-25T20:58:20Z",
+			"stars": 1,
+			"tags": [
+				"library",
+				"organize",
+				"launch"
+			],
+			"download": {
+				"url": "https://github.com/GFocacetti/universal-game-importer/releases/download/v0.67.6/UGI-0.67.6.zip",
+				"size": 658220,
+				"sha256": "43c95d337525c25a6577a580ecb116a060cea16739bec15daede080a902037dc",
 				"format": "zip"
 			}
 		}
