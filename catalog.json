@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"generated": "2026-11-28T14:14:29.314Z",
+	"generated": "2026-11-28T15:54:51.088Z",
 	"tags": [
 		{
 			"id": "where",
@@ -871,8 +871,8 @@
 			"author": "GFocacetti",
 			"repository": "https://github.com/GFocacetti/protondb-plus",
 			"license": "MIT",
-			"version": "1.0.1",
-			"released": "2026-11-28T12:46:32Z",
+			"version": "1.0.2",
+			"released": "2026-11-28T15:53:33Z",
 			"stars": 0,
 			"tags": [
 				"library",
@@ -881,9 +881,9 @@
 				"organize"
 			],
 			"download": {
-				"url": "https://github.com/GFocacetti/protondb-plus/releases/download/v1.0.1/protondb-plus-v1.0.1.star",
-				"size": 209001,
-				"sha256": "90bd92630041798ed7dc6920a53621e536773d2b1c4db846a9fa6fbc3203ab11",
+				"url": "https://github.com/GFocacetti/protondb-plus/releases/download/v1.0.2/protondb-plus-v1.0.2.star",
+				"size": 209144,
+				"sha256": "0e4bd9a7d64eec1c305a9a5959afdb532adbc86c3f15451df436e2baefdaf476",
 				"format": "star"
 			},
 			"supersedes": [
