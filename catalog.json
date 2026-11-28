@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"generated": "2026-11-27T23:52:09.091Z",
+	"generated": "2026-11-28T12:47:46.410Z",
 	"tags": [
 		{
 			"id": "where",
@@ -588,7 +588,7 @@
 			"license": "MIT",
 			"version": "2.1.1",
 			"released": "2026-10-16T21:27:52Z",
-			"stars": 26,
+			"stars": 27,
 			"tags": [
 				"library",
 				"achievements"
@@ -844,8 +844,8 @@
 			"author": "GFocacetti",
 			"repository": "https://github.com/GFocacetti/protondb-plus",
 			"license": "MIT",
-			"version": "1.0.0",
-			"released": "2026-11-27T23:50:44Z",
+			"version": "1.0.1",
+			"released": "2026-11-28T12:46:32Z",
 			"stars": 0,
 			"tags": [
 				"library",
@@ -854,11 +854,20 @@
 				"organize"
 			],
 			"download": {
-				"url": "https://github.com/GFocacetti/protondb-plus/releases/download/v1.0.0/protondb-plus-v1.0.0.star",
-				"size": 208897,
-				"sha256": "5e5563c417f798443efceb75076e151be887946ec7d1ca64fe681d8f512e3cac",
+				"url": "https://github.com/GFocacetti/protondb-plus/releases/download/v1.0.1/protondb-plus-v1.0.1.star",
+				"size": 209001,
+				"sha256": "90bd92630041798ed7dc6920a53621e536773d2b1c4db846a9fa6fbc3203ab11",
 				"format": "star"
-			}
+			},
+			"supersedes": [
+				"com.unicxrn.protondb",
+				"protondb",
+				"protondb-library-badges",
+				"protondb-status",
+				"protondb-extension",
+				"arewelinuxyet",
+				"proton-prefix-browser"
+			]
 		},
 		{
 			"id": "recent-chats",
@@ -955,7 +964,7 @@
 			"license": "MIT",
 			"version": "4.5",
 			"released": "2026-11-18T00:54:34Z",
-			"stars": 1616,
+			"stars": 1617,
 			"image": "https://raw.githubusercontent.com/tkashkin/Adwaita-for-Steam/master/screenshots/dark.png",
 			"download": {
 				"url": "https://codeload.github.com/tkashkin/Adwaita-for-Steam/zip/e119cbdcdec6cd868a9c4afa47e6a5d6d348f342",
@@ -1169,7 +1178,7 @@
 			"license": null,
 			"version": "6.7.1",
 			"released": "2026-11-27T07:08:50Z",
-			"stars": 134,
+			"stars": 135,
 			"image": "https://i.imgur.com/y52I7oM.png",
 			"kofi": "saiyajink",
 			"download": {
@@ -1241,7 +1250,7 @@
 			"license": null,
 			"version": "1.8",
 			"released": "2026-10-22T03:20:43Z",
-			"stars": 69,
+			"stars": 68,
 			"image": "https://i.imgur.com/uXtPTnr.png",
 			"download": {
 				"url": "https://codeload.github.com/shdwmtr/simply-dark/zip/d5fde36af9ad4d376664fad7f211e76da720bba6",
@@ -1258,7 +1267,7 @@
 			"license": "MIT",
 			"version": "",
 			"released": "2026-11-26T15:50:15Z",
-			"stars": 297,
+			"stars": 295,
 			"image": "https://raw.githubusercontent.com/SpaceTheme/Steam/main/.github/assets/preview/preview.webp",
 			"kofi": "spacetheme",
 			"download": {
