@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"generated": "2026-11-28T12:47:46.410Z",
+	"generated": "2026-11-28T13:13:24.853Z",
 	"tags": [
 		{
 			"id": "where",
@@ -434,6 +434,33 @@
 						"koreana": "브라우저 확장 프로그램",
 						"schinese": "浏览器扩展",
 						"tchinese": "瀏覽器擴充功能"
+					}
+				},
+				{
+					"id": "controllers",
+					"labels": {
+						"english": "Controllers",
+						"italian": "Controller",
+						"german": "Controller",
+						"french": "Manettes",
+						"spanish": "Mandos",
+						"latam": "Controles",
+						"brazilian": "Controles",
+						"dutch": "Controllers",
+						"danish": "Controllere",
+						"swedish": "Handkontroller",
+						"polish": "Kontrolery",
+						"russian": "Контроллеры",
+						"ukrainian": "Контролери",
+						"bulgarian": "Контролери",
+						"hungarian": "Kontrollerek",
+						"turkish": "Oyun kumandaları",
+						"indonesian": "Kontroler",
+						"vietnamese": "Tay cầm",
+						"japanese": "コントローラー",
+						"koreana": "컨트롤러",
+						"schinese": "控制器",
+						"tchinese": "控制器"
 					}
 				}
 			]
@@ -907,6 +934,27 @@
 				"url": "https://github.com/diemonic1/RSS-feed-in-whats-new/releases/download/v1.0.2/RSS-feed-in-whats-new-1-0-2.zip",
 				"size": 23610,
 				"sha256": "b182e74871285cf278c12768e3093284a32b68c8719a04f7cc9b32dfc70c9dc1",
+				"format": "zip"
+			}
+		},
+		{
+			"id": "sc-battery",
+			"name": "SC-Battery",
+			"description": "Shows the battery level of your controllers (Steam Controller, PlayStation, Xbox) in the top bar of the Steam desktop client, with a battery history chart.",
+			"author": "GFocacetti",
+			"repository": "https://github.com/GFocacetti/sc-battery",
+			"license": "GPL-3.0",
+			"version": "0.1.2",
+			"released": "2026-11-28T13:11:32Z",
+			"stars": 0,
+			"tags": [
+				"client",
+				"controllers"
+			],
+			"download": {
+				"url": "https://github.com/GFocacetti/sc-battery/releases/download/v0.1.2/sc-battery-0.1.2.zip",
+				"size": 28077,
+				"sha256": "e13d291aa871b0c9fa8e9c5fdbc175fe4dfdf9f53b6b43ab3e36f25a8f431c5c",
 				"format": "zip"
 			}
 		},
